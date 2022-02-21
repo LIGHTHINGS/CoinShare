@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;200&display=swap');
+.navbar {
+    /* Rectangle 21 */
+    width: 1583px;
+    height: 130px;
+    background-color: #fff;
+    box-shadow: 0px 12px 20px rgba(0, 0, 0,0.04);
+    /* white/900 */
+    position: sticky;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-family:'Poppins', sans-serif;
+    font-size: small;
+    font-weight: normal;
+}
+
+.imgIcon {
+    position: absolute;
+    left: 7.5%;
+    right: 88.96%;
+    top: 25.31%;
+    bottom: 28.46%;
+    /* Primary/400 */
+}
+
+.links {
+    position:relative;
+    width: 40px;
+    height: 22px;
+    left: 143px;
+    top: 0px;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 20px;
+/* identical to box height */
+    color: #000000;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 40px;
+    /* text-decoration: none; */
+    list-style: none;
+    display: inline;
+    cursor: pointer;
+}
+
+/* .links:hover{
+    border-bottom: 3px solid #0052FF;
+} */
+.links a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.getStarted  a {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+    position: absolute;
+    left: 74.38%;
+    right: 15.49%;
+    top: 30.08%;
+    bottom: 35.23%;
+    /* Primary/400 */
+    font-weight: 700;
+    background: #0052FF;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.signIn{
+  /* Auto layout */
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 30px;
+    position: absolute;
+    left: 85.35%;
+    right: 7.29%;
+    top: 30.08%;
+    bottom: 35.23%;
+
+    /* Neutral/500 */
+    border: 1px solid #6B7280;
+    /* box-sizing: border-box; */
+    border-radius: 4px;   
+}
+.signIn a{
+    text-decoration: none;
+    position: static;
+    width: 50px;
+    height: 19px;
+    left: 28px;
+    top: 15px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* Neutral/500 */
+    color: #6B7280;
+    /* Inside auto layout */
+    /* flex: none; */
+    /* order: 0; */
+    /* flex-grow: 0; */
+    /* margin: 0px 10px; */
+}
+.signIn:hover{
+        background-color: #0052FF;
+        border-color: #0052FF;
+        color: #fff;
+ }

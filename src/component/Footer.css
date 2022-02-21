@@ -1,0 +1,313 @@
+.Footer{
+    position: absolute;
+    width: 1583px;
+    height: 747px;
+    left: 0px;
+    top: 4744px;
+    background: #0052FF;
+}
+
+.company{
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 9%;
+    top: 15%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    /* identical to box height */
+ /* White/900 */
+    color: #fff;
+}
+.about {
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 200%;
+}
+
+.how{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 100px;
+}
+.terms {
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 140px;
+    width:138px;
+    left: -1px;
+}
+.privacy{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 176px;
+}
+.blog{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 210px;
+}
+
+.features{
+    position: absolute;
+    width: 96px;
+    height: 29px;
+    left: 30%;
+    top: 15%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    /* White/900 */
+    color: #FFFFFF;
+}
+
+.save{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 210%;
+    width: 160px;
+}
+.personal{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 99px;
+    width: 160px;
+}
+.group {
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 140px;
+    width:138px;
+    left: -1px;
+    width: 180px;
+}
+.payment{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 180px;
+    width:170px;
+}
+.loan{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 215px;
+    width: 190px;
+}
+
+.bill{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 250px;
+    width: 190px;
+}
+.business{
+    position: absolute;
+    width: 96px;
+    height: 29px;
+    left: 53%;
+    top: 15%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    /* White/900 */
+    color: #FFFFFF;
+}
+
+.sell{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 200%;
+    width: 160px;
+}
+
+.paymentMethods{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 96px;
+    width: 160px;
+}
+
+.developers{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 140px;
+    width:138px;
+    left: 0px;
+    width: 180px;
+}
+
+.ambassador{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 180px;
+    width:170px;
+}
+
+.download{
+    position: absolute;
+    width: 96px;
+    height: 29px;
+    left: 74%;
+    top: 15%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    /* White/900 */
+    color: #FFFFFF;
+}
+.google{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 200%;
+    width: 230px;
+}
+
+.apple{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16.5px;
+    font-weight: normal;
+    top: 96px;
+    width: 260px;
+}
+
+.huawei{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+    top: 140px;
+    width:138px;
+    left: 0px;
+    width: 280px;
+}
+
+.web{
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    top: 180px;
+}
+
+.altCoin{
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 9%;
+    top: 75%;
+    width: 150px;
+    height: 35px;
+}
+
+hr {
+    position: absolute;
+    color: #CCDCFF;
+    border: 1px solid;
+    width: 1114px;
+    top: 600px;
+    left:120px;
+}
+
+.socialMedia{
+    display: block;
+    position: absolute;
+    top: 280px;
+}
+
+.cac{
+    position: absolute;
+    text-decoration: none;
+    color: #CCDCFF;
+    font-size: 17px;
+    font-weight: normal;
+    top: 650px;
+    width: 1200px;
+    left: 120px;
+}
